@@ -1,0 +1,3 @@
+# To reduce amount of uploading to GitHub I will use this to ignore the env dependencies as they will be installed through
+# Readme
+/env
