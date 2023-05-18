@@ -33,4 +33,8 @@ items_df = DataFrame(item_details)
 # Should print without the errors if there were any stating "NaN" or "NaT"
 print(items_df)
 ```
+### Working Examples:
+![image](https://github.com/CharlieWoo01/PythonCrud/assets/68980359/e2b8a7c7-6e86-438f-a3b3-f98693fc5b0d)
+
+![image](https://github.com/CharlieWoo01/PythonCrud/assets/68980359/a151c9c7-83ee-4096-981d-5064b4f729a8)
 
